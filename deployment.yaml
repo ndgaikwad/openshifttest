@@ -391,7 +391,7 @@ parameters:
   - name: "CONSUMER_GIT_URL"
     displayName: "Source Repository URL"
     description: "The URL of the repository with your application source code"
-    value: "https://github.com/Cingulara/peopleapi-jenkins-auto-deploy.git"
+    value: "https://github.com/ndgaikwad/openshifttest.git"
     required: true
   - name: "CONSUMER_GIT_BRANCH"
     displayName: "Source Repository Branch"
